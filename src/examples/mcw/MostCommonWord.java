@@ -1,4 +1,4 @@
-package test.mcw;
+package examples.mcw;
 
 import java.util.Comparator;
 import java.util.HashMap;

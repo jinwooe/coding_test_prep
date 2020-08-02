@@ -1,4 +1,4 @@
-package test.palindrome;
+package examples.palindrome;
 
 import java.util.ArrayList;
 import java.util.List;

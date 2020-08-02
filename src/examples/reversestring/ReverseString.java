@@ -1,4 +1,4 @@
-package test.reversestring;
+package examples.reversestring;
 
 public class ReverseString {
     public static void main(String[] args) {

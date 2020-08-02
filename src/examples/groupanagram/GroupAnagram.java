@@ -1,4 +1,4 @@
-package test.groupanagram;
+package examples.groupanagram;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package test.reorderlogs;
+package examples.reorderlogs;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package test.lps;
+package examples.lps;
 
 public class LongestPalindromeSubstring {
     public static void main(String[] args) {
