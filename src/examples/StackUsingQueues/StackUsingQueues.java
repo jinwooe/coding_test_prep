@@ -7,6 +7,7 @@ public class StackUsingQueues {
     private Queue<Integer> queue1 = new ArrayBlockingQueue<>(100);
     private Queue<Integer> queue2 = new ArrayBlockingQueue<>(100);
 
+    // 비어있는 큐에 먼저 값을 넣기
     public void push(int i) {
         if(queue1.isEmpty()) {
             queue1.add(i);
